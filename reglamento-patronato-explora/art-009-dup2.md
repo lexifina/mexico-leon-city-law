@@ -1,0 +1,2 @@
+ARTICULO 9° A.- Para el uso y arrendamiento que Explora autorice a terceros sobre los espacios de sus instalaciones, deberá invariablemente celebrarse convenio escrito en los términos de la normatividad aplicable.
+En el supuesto de que de dicho uso o arrendamiento se ocasionaren desperfectos al espacio utilizado, el tercero estará obligado a cubrir los gastos que se originen por la reparación de dichos desperfectos, siendo obligación de Explora repararlos.

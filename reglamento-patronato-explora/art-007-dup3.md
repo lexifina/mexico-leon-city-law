@@ -1,0 +1,1 @@
+ARTICULO SEPTIMO.- Por esta única vez el Ayuntamiento designará al Consejo Directivo del Patronato de Explora dentro de los sesenta días siguientes a la entrada en vigor del presente Reglamento, el cual durará en funciones hasta el mes de Diciembre del año 2000.
