@@ -1,0 +1,44 @@
+ARTÍCULO SEGUNDO.- Para efectos de lo señalado en el artículo 20 del presente reglamento, por esta única ocasión la Contraloría, la Tesorería y la Secretaría de Desarrollo Institucional contarán con un plazo de 30 días hábiles posteriores a la entrada en vigor de este ordenamiento, para elaborar el programa al que se sujetarán las dependencias y entidades para la integración de los expedientes relativos a la entrega-recepción de la administración pública municipal.
+POR TANTO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 70 FRACCIONES I Y VI Y 205 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO, ASÍ COMO 33, 35 FRACCIÓN XIV Y 36 FRACCIÓN VII DEL REGLAMENTO ORGÁNICO MUNICIPAL DE LEÓN, GUANAJUATO, MANDO QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
+DADO EN LA CASA MUNICIPAL DE LEÓN, GUANAJUATO, A LOS 2 DOS DÍAS DEL MES DE ABRIL DEL AÑO 2009 DOS MIL NUEVE.
+L.A.E. VICENTE GUERRERO REYNOSO
+PRESIDENTE MUNICIPAL
+LIC. FRANCISCO DE JESÚS GARCÍA LEÓN
+SECRETARIO DEL H. AYUNTAMIENTO.
+Presidencia Municipal de León
+Publicación: P.O. 21 de abril de 2009
+Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 03 de octubre 2025
+P.O. número 64, Segunda Parte, de fecha 21 de abril del 2009.
+P.O. número 86, Segunda Parte, de fecha 31 de mayo de 2011.
+ÚNICO.- SE REFORMAN los artículos 3 fracción II, 5 fracción III, 7 último párrafo, 9, 10, 13, 14 primer párrafo y fracciones III y IV, 15, 20, 29 segundo párrafo y 34; SE ADICIONAN la fracción IX al artículo 5 y la fracción III al artículo 7; Y SE DEROGAN la fracción III del artículo 3, artículo 11, último párrafo del 14, el segundo párrafo del artículo 17, párrafos segundo y tercer del artículo 24 y artículo 25; todos del Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 64, Segunda Parte, de fecha 21 de abril del 2009.
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- La presente reforma entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas municipales que se opongan a la presente reforma.
+P.O. número 111, Segunda Parte, de fecha 04 de junio de 2018.
+EXPOSICIÓN DE MOTIVOS
+La evolución constante de la Administración Pública Municipal requiere contar con un marco normativo actualizado que responda a las necesidades que se presentan en la práctica, y que fomente una cultura de legalidad, transparencia y rendición de cuentas.
+La existencia de una sociedad cada vez más participativa, que cuestiona y evalúa permanentemente la actuación de los servidores públicos, exige mejores resultados en los proyectos y acciones de la gestión pública; por ello, resulta de vital importancia que con el cambio de las administraciones públicas o la sustitución de los titulares de las Dependencias y Entidades, aquellos no se interrumpan.
+El proceso de entrega-recepción resulta de fundamental importancia porque permite dar continuidad y seguimiento a los programas, políticas, obras y servicios, facilitando la eficacia y eficiencia de la gestión gubernamental.
+El Reglamento para la entrega-recepción de la Administración Pública Municipal de León, Guanajuato se encuentra vigente desde el año 2009, es decir, desde hace 9 años, lapso en el cual nuestro marco legal ha sufrido importantes adecuaciones como es el caso de la vigente Ley Orgánica Municipal emitida en el mes de septiembre de 2012, así como de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato en vigor a partir del 19 de julio de 2017.
+La actualización del citado Reglamento resulta imperativo no solamente por el tiempo transcurrido desde su emisión, sino también porque en la práctica se han detectado áreas de oportunidad para hacer más eficientes los procesos de entrega-recepción, que se incorporan en esta reforma para contar con un instrumento jurídico que promueva la eficacia en la aplicación de los recursos y facilite la continuidad en la prestación de los servicios públicos. Máxime que en el presente año corresponde la renovación del H. Ayuntamiento.
+Las reformas propuestas promueven la armonización del Reglamento con las leyes emitidas con posterioridad a la vigencia de aquel, tal como se muestra a continuación:
+1.- Se actualizó la información requerida para integrar el expediente de entrega-recepción, ya que el reglamento ha quedado rebasado pues se basa en requisitos de la Ley Orgánica Municipal Abrogada.
+2.- Se incluyen otras unidades administrativas como sujetos obligados a la entrega-recepción que no habían sido considerados al momento de la emisión del reglamento tales como: la Unidad de Transparencia, Juzgados Administrativos y Defensorías de Oficio.
+3.- Se incorporó al reglamento la denominación correcta de la legislación en materia de transparencia y de responsabilidades administrativas; así como de los artículos que regulan actualmente la entrega-recepción. Por otra parte, se establecen tres modalidades para la entrega-recepción las cuales son: 1.- Por cambio de Administración Pública; 2.- Ordinaria; y 3.- Extraordinaria. Lo cual proporciona mayor claridad en los supuestos que pueden presentarse para que se origine la obligación de entrega-recepción, además de que se incluyó como supuesto, también la separación provisional del cargo ya que el reglamento únicamente contemplaba la separación definitiva.
+Por lo anterior, se cambió la denominación de la Sección Segunda del Capítulo IV, quedando “De la Entrega-Recepción Ordinaria” y se creó la Sección Tercera, que se denomina “De la Entrega-Recepción Extraordinaria” con el artículo 33 bis, en el que se regula la entrega-recepción por licencia del Presidente Municipal.
+Asimismo, se precisó y reguló la obligación de todo servidor público de realizar su entrega-recepción.
+Se determina el uso de sistemas informáticos y medios electrónicos para la integración, almacenamiento y manejo de la información correspondiente a la entrega-recepción.
+Presidencia Municipal de León
+Publicación: P.O. 21 de abril de 2009
+Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 03 de octubre 2025
+En los términos del artículo 45 fracción XVII, de la Ley Orgánica Municipal para el Estado de Guanajuato, se incluye ahora en el reglamento el resto de la información que se estima relevante para garantizar la continuidad de la administración pública municipal.
+En la entrega-recepción ordinaria a fin de que se pueda realizar una revisión con mayor acuciosidad, se amplía el plazo de diez a quince días hábiles para que el servidor público entrante verifique el contenido de la información proporcionada en el acta de entrega. También se precisa que la entrega-recepción ordinaria de un titular de dependencia, que coincida con el cambio de administración pública, se llevará a cabo sin perjuicio del proceso que la Ley Orgánica Municipal establece para la entrega-recepción de Ayuntamiento a Ayuntamiento.
+ÚNICO.- Se reforman los artículos 2 fracción I y segundo párrafo; 5 fracción III; 6; 7; 8; 10 fracciones I y IV; 14 fracciones II, VII y IX; 16; 17; 18; 20; se modifica la denominación de la Sección Segunda del Capítulo IV para quedar “De la Entrega-Recepción Ordinaria”; 27 primer párrafo; 28 primer párrafo; 29 segundo párrafo; 30 primer párrafo; 31; 33; y 36 y se adicionan los artículos 5 fracción X; 9 con un segundo párrafo; la Sección Tercera del Capítulo IV denominada “De la Entrega-Recepción Extraordinaria” y 33 Bis del Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 64, segunda parte de fecha 21 abril de 2009.
+Artículo Transitorio
+Único. Las presentes reformas y adiciones al Reglamento Municipal para la Entrega–Recepción de la Administración Pública Municipal de León Guanajuato entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 198, segunda parte, de fecha 03 de octubre del 2025.
+ACUERDO
+QUINTO. Se reforman los artículos 1, 5 fracciones I, II, III y V, 14 fracción IX, 17 y 18 párrafos primero, segundo y tercero, 24 y 33 BIS segundo párrafo, del Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato.
+Nota del editor: El resto de los puntos del Acuerdo no tienen relación con el Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato. Si se requiere de su consulta, se encuentra de manera íntegra en la publicación oficial.
+TRANSITORIOS
+Vigencia
