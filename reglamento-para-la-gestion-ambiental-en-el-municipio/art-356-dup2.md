@@ -1,0 +1,3 @@
+Artículo 356 A. Requiere del permiso previamente otorgado por la DGGA, la instalación y operación de cualquier anuncio publicitario con iluminación o con pantalla electrónica, con una superficie igual o mayor a cincuenta metros cuadrados, que se ubique en cualquier vialidad urbana o bien de uso común, o que se coloque en algún predio, lote o bien que no sea de competencia federal o estatal, adyacente a cualquier autopista, carretera, puente, camino o alguna otra vía de comunicación, o que sea visible desde alguno de los sitios anteriores.
+Está exceptuada de lo anterior, la señalización que en materia de seguridad, tránsito y vialidad, transporte público o protección civil se coloque u opere a instancia de las autoridades competentes.
+Requisitos para solicitar el permiso

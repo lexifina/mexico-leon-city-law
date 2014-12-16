@@ -1,0 +1,2 @@
+Artículo 390 A. Dentro de los siete días hábiles siguientes a aquél en que se haya practicado la visita técnica, el personal adscrito a la DGGA debe formular el dictamen correspondiente en el que debe especificarse, en su caso, los términos, condiciones, limitaciones y requerimientos bajo los que deba llevarse a cabo la remediación del sitio contaminado con residuos sólidos urbanos.
+Plazo para resolver la autorización del programa de remediación

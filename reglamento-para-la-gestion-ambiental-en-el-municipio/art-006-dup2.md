@@ -1,0 +1,2 @@
+Artículo sexto. Todos los archivos, insumos, bienes materiales, expedientes, asignaciones presupuestales, compromisos y obligaciones de la Dirección General de Medio Ambiente Sustentable pasan a formar parte de la Dirección General de Gestión Ambiental, a efecto de su debida atención o resguardo.
+Artículo séptimo. La Dirección General de Gestión Ambiental debe cumplir íntegramente con las obligaciones, compromisos, trámites y procedimientos asumidos por la Dirección General de Medio Ambiente Sustentable.

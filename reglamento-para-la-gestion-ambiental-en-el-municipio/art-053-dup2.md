@@ -1,0 +1,2 @@
+Artículo 53 A. El Programa Municipal de Sustentabilidad Energética, tiene por objeto determinar las medidas y acciones para fomentar el uso óptimo de la energía en todos los procesos y actividades para su aprovechamiento, producción, transformación, distribución y consumo, así como al aprovechamiento de las fuentes renovables de energía.
+Requisitos del programa municipal de sustentabilidad energética

@@ -1,0 +1,1 @@
+Artículo octavo. Todos los procedimientos y demás asuntos relacionados con las materias a que refiere este Ordenamiento, iniciados con anterioridad a la entrada en vigencia al presente acuerdo, deben tramitarse y resolverse conforme a las disposiciones vigentes en ese momento.
