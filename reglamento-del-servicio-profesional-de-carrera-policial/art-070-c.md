@@ -1,0 +1,1 @@
+Artículo 70-C. Sólo se admitirán las pruebas previstas en el Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, sujetándose al Título Séptimo del mismo ordenamiento su ofrecimiento, desahogo y valoración.

@@ -1,0 +1,1 @@
+Artículo 25-A. La nivelación académica es el procedimiento por el cual, la Academia Metropolitana valida los conocimientos teóricos y prácticos previamente adquiridos por el aspirante, a través de una evaluación técnica desarrollada a partir de los elementos fundamentales que representa la función policial.

@@ -1,0 +1,1 @@
+Artículo 17-C. La convocatoria interna es un instrumento de promoción de los policías a ocupar una plaza superior, para lo cual tendrá que cubrir las características establecidas en el artículo 17-B, excepción hecha de lo establecido por las fracciones III, VI y VII, más los que considere la Corporación y este reglamento.

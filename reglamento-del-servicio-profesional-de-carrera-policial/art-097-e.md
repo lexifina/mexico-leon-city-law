@@ -1,0 +1,1 @@
+Artículo 97-E. La resolución que se emita con motivo del recurso, deberá ser notificada personalmente al Policía por conducto del Titular de la Corporación, dentro del término de tres días siguientes contados a partir de la fecha en que se haya emitido la resolución.

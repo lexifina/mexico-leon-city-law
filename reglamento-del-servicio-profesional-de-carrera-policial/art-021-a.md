@@ -1,0 +1,1 @@
+Artículo 21-A. El nombramiento es el documento formal que se otorga al policía de nuevo ingreso, por parte de la autoridad competente, por medio del cual se inicia en el servicio y adquiere los derechos de estabilidad, permanencia, formación, promoción y desarrollo, ascensos, estímulos y retiro en los términos de las disposiciones aplicables.

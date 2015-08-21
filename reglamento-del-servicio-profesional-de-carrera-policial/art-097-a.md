@@ -1,0 +1,1 @@
+Artículo 97-A. En contra de todas las resoluciones de la Comisión Municipal, a que se refiere este Reglamento, el Policía podrá interponer ante la misma, el recurso de inconformidad dentro del término de diez días hábiles contados a partir del día siguiente en que se haga de su conocimiento el hecho que afecta sus derechos, o el que hubiere sido sancionado.

@@ -1,0 +1,1 @@
+Artículo 17-D. Cuando ningún candidato sujeto a promoción cumpla con los requisitos establecidos en la convocatoria interna, se lanzará una convocatoria pública y abierta pudiéndose realizar una contratación externa.

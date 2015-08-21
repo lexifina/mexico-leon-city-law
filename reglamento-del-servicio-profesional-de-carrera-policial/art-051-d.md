@@ -1,0 +1,1 @@
+Artículo 51-D. La terminación del servicio, por el incumplimiento de los requisitos de permanencia, se realizará mediante el procedimiento establecido en el Capítulo V, Titulo Tercero del presente ordenamiento.

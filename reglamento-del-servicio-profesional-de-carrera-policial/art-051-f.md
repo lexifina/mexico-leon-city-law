@@ -1,0 +1,1 @@
+Artículo 51-F. En el caso de separación, remoción, baja o cese o cualquier otra forma de terminación del servicio que haya sido injustificada, la Corporación sólo estará obligada a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación.

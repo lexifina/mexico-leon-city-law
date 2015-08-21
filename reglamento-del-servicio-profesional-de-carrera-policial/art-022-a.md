@@ -1,0 +1,1 @@
+Artículo 22-A. Recibido el nombramiento el policía, dentro del primer año de servicio tendrá el carácter de eventual, con el objeto de que el desempeño sea acorde a las funciones encomendadas y que se consolide su nombramiento.
