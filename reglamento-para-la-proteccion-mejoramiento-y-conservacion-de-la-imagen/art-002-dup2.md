@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Los proyectos, programas y obras que estén en proceso en la zona o localidad al momento de la publicación de este Reglamento, serán revisadas y evaluadas por la Dirección, para su adecuación, a las consideraciones del mismo.
