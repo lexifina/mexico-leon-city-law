@@ -1,0 +1,1 @@
+Artículo Cuarto. La Dirección General de Salud, a través de la Dirección del Hospital Público Veterinario de Mascotas, emitirá en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Acuerdo, los lineamientos para regular la operatividad y funcionamiento del Hospital Público Veterinario de Mascotas.
