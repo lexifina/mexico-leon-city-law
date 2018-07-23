@@ -1,0 +1,3 @@
+Artículo 15 ter.- Las personas integrantes del Ayuntamiento que requieran participar a distancia en aquellas sesiones convocadas bajo la modalidad presencial, deberán solicitarlo por escrito al Ayuntamiento indicando las circunstancias que lo justifiquen; ello, a través de la Secretaría del H. Ayuntamiento, quien dará cuenta a la persona titular de la Presidencia Municipal o en su caso a quien ocupe la primera sindicatura del Ayuntamiento, con la finalidad de que se le proporcione el acceso para ser incorporado a la sesión.
+Artículo adicionado P.O. 29-05-2023
+Reglas para participar en las Sesiones a Distancia

@@ -1,0 +1,1 @@
+Artículo Tercero. La Tesorería Municipal destinará recursos suficientes para que las unidades administrativas puedan implementar las modalidades de las sesiones de Ayuntamiento y reuniones de comisiones.
