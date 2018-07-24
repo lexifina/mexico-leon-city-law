@@ -1,0 +1,2 @@
+Artículo único. Se reforman los artículos 1; 5; 6; 8; 9; 13 párrafos primero y tercero; 16 fracción X; 18 fracción V y 27 fracción III; Se adicionan las fracciones XIII a XXV al artículo 16; y Se deroga la fracción VI del artículo 27, todos del Reglamento del Consejo de Participación Social en la Educación del Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 55, segunda parte de fecha 6 de abril del 2010, para quedar en los términos siguientes:
+Artículos transitorios
