@@ -1,0 +1,1 @@
+Artículo tercero. El Presidente del Sistema Municipal de Protección realizará las acciones necesarias para que el Programa Municipal de Protección se elabore y apruebe dentro de los ciento veinte días naturales siguientes a la instalación del Sistema Municipal de Protección.
