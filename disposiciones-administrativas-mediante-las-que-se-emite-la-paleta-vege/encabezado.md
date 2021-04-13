@@ -1,0 +1,37 @@
+1
+EL CIUDADANO HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA, PRESIDENTE MUNICIPAL DE LEÓN, ESTADO DE GUANAJUATO, A LOS HABITANTES DEL MISMO HAGO SABER:
+QUE EL H. AYUNTAMIENTO QUE PRESIDO, CON FUNDAMENTO EN LOS ARTÍCULOS 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 106 Y 117 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; 2, 76 FRACCIÓN I INCISO B), 236 Y 240 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; EN SESIÓN ORDINARIA DE FECHA 25 DE MARZO
+DEL
+AÑO
+2021,
+SE
+APROBARON
+LAS
+DISPOSICIONES ADMINISTRATIVAS MEDIANTE LAS CUALES SE EMITE LA PALETA VEGETAL PARA LA ZONA URBANA EN EL MUNICIPIO DE LEÓN, GUANAJUATO, CON BASE EN LA SIGUIENTE:
+EXPOSICIÓN DE MOTIVOS
+El municipio de León cuenta con 128,217 hectáreas de superficie, lo que representa el 4.2% del territorio estatal. En el Estado es el sexto municipio con mayor superficie y mayor población con 1,721,215 habitantes, según la encuesta intercensal (INEGI, 2020). El municipio cuenta con 691 localidades, 8 urbanas y 683 rurales. En las localidades urbanas se concentra el 93.5 % de la población municipal, siendo León de los Aldama la localidad urbana más poblada con 1,238,962 habitantes; el 6.5% restante se distribuye en 683 localidades (INEGI 2020).
+A nivel municipal, es notorio que el efecto de la urbanización, la pavimentación de caminos y el crecimiento industrial, está generando cambios en los patrones de circulación atmosférica para la variación espacial y temporal de la precipitación y temperaturas máximas y mínimas, lo cual tendrá efecto sobre las plantas y árboles presentes principalmente en el área urbana del municipio ya que existen especies que deben de establecerse con base en los rangos aceptables de precipitación y temperatura que necesitan para un crecimiento adecuado.
+La importancia del crecimiento de las emisiones de gases contaminantes, incluidos los Gases Efecto Invernadero y el uso excesivo de energías, genera problemas de contaminación del aire, los cuales deben tomarse en cuenta para el establecimiento de especies que tengan baja susceptibilidad o mayor adaptación a las condiciones futuras de aire, basadas en el comportamiento actual. Desafortunadamente el cambio climático está afectando en forma general a los bosques naturales y en particular a los bosques urbanos.
+2
+El 79.7% del Municipio presenta algún tipo de degradación del suelo, resalta la degradación química por declinación de fertilidad y reducción de materia orgánica que presenta un grado moderado de degradación, principalmente por las actividades agrícolas. La urbanización provoca degradación física por pérdida de la función productiva en al menos el 22.55% del territorio. El 81.1% del territorio presenta una erosión de incipiente a ligera y en el 18.9% restante una erosión de moderada a severa.
+En teoría, las prácticas adecuadas de manejo de los espacios verdes que integran el bosque urbano requieren de una cuidadosa planeación para la selección de las especies arbóreas que lo conforman y puedan responder adecuadamente al cambio climático.
+El uso de la Paleta Vegetal se encuentra establecida dentro del Reglamento de la Gestión Ambiental para el Municipio de León en el capítulo IV, sección primera. En este se definen y establecen los criterios de selección de especies según sus servicios ambientales y características físicas para armonizar los diseños de paisaje urbano y mejorar la fisonomía paisajística de la ciudad,
+El Código Territorial para el Estado y los Municipios de Guanajuato establece que las paletas vegetales municipales tienen por objeto determinar las especies y características de la vegetación susceptibles de utilizarse en la forestación de los parques urbanos, jardines públicos y áreas verdes, así como de las áreas ajardinadas de plazas cívicas, glorietas, camellones, banquetas y demás bienes inmuebles de propiedad municipal ubicados dentro de los centros de población.
+De esta manera, mediante disposiciones administrativas, los municipios pueden regular lo concerniente al paisaje e imagen urbana en sus circunscripciones territoriales,
+estableciendo
+las
+modalidades,
+restricciones,
+mantenimiento, mejoramiento y conservación de la vegetación urbana.
+Derivado del Decreto Gubernativo número 109, publicado el 21 de agosto del 2020 en el Periódico Oficial del Gobierno del Estado de Guanajuato, segunda parte se expidió el Inventario de Especies Vegetales nativas del Estado de Guanajuato el cual sirve de base a los ayuntamientos para expedir o actualizar las paletas vegetales, así como las fichas técnicas establecidas en el Documento Técnico Base.
+En este contexto, este Ayuntamiento preocupado por la adaptación y la permanencia de los árboles urbanos antes las actuales dinámicas de la ciudad y los
+3
+fenómenos derivados del cambio climático, a través de la Dirección General de Medio Ambiente realizó un extenso análisis sobre las condiciones biofísicas del municipio, la idoneidad de las especies; la disponibilidad y características morfológicas de las especies arbóreas que se producen en el vivero municipal y comerciales; así como la evaluación del desarrollo de las especies arbóreas establecidas en el ambiente urbano en el municipio, esto a través de un muestreo del arbolado urbano.
+Es importante mencionar que la emisión de estas disposiciones administrativas, obligará a la emisión de diversos documentos que permitirán la mejor implementación de las mismas, tales como el Programa Municipal de Arborización Urbana Sectorizado; que indicará de forma sectorizada y priorizada la forestación, reforestación y sustitución del arbolado de acuerdo a las especies factibles y a las necesidades particulares de cada zona, permitiendo obtener germoplasma de calidad para desarrollar un capital arbóreo óptimo en el territorio municipal como componente de la infraestructura verde, para la re naturalización de espacios verdes, conectores biológicos interconectados y que disponga de las mejores condiciones para su desarrollo mejorando así la prestación de servicios ecosistémicos en la ciudad y zonas periurbanas.
+De igual forma la Dirección General de Medio Ambiente será la encargada de elaborar el Manual de Procedimientos para el Mantenimiento del Arbolado Urbano, el cual contendrá la secuencia de pasos a seguir, para llevar a cabo el mantenimiento del bosque urbano, a nivel de especie, haciendo énfasis en las labores de riego, fertilización, control y combate de plagas y enfermedades, poda y derribo, específicos para cada especie.
+Y por último y en ese orden de ideas se implementará un Banco de Germoplasma Municipal que contemple la infraestructura (cámaras frías) y los protocolos de colecta, almacenamiento e identificación de semilla de las especies urbanas del Municipio de León, que son deseables y que se encuentran en el listado de especies de la actual propuesta de la Paleta Vegetal, principalmente seleccionando a los individuos con mejores características fenotípícas y genotípicas (árboles superiores).
+Todo lo anterior permitirá que la Paleta Vegetal sea una herramienta de consulta ciudadana sobre especies arbóreas adecuadas a las condiciones edafoclimáticas del Municipio con un enfoque de adaptación al cambio climático, que no solo ayuden a los efectos directos de cambio climático si no que permita conservar y mejorar la biodiversidad existente en la ciudad.
+4
+DISPOSICIONES ADMINISTRATIVAS MEDIANTE LAS CUALES SE EMITE LA
+PALETA VEGETAL PARA LA ZONA URBANA EN EL MUNICIPIO DE LEÓN,
+GUANAJUATO
