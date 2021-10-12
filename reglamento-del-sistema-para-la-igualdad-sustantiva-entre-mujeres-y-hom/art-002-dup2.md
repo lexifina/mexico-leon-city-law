@@ -1,0 +1,1 @@
+Artículo segundo. El Sistema Municipal deberá quedar instalado dentro de los siete días hábiles siguientes a la entrada en vigor del presente Reglamento. A efecto de lo anterior, el Presidente Municipal, por única ocasión, realizará la designación directa de los Representantes de la Sociedad Civil.
