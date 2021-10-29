@@ -1,0 +1,45 @@
+Presidencia Municipal de León
+Publicación: P.O. 29 de octubre de 2021
+Reglamento Interior de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 07 de octubre de 2025
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA
+MUNICIPAL DE LEÓN, GUANAJUATO
+LA
+CIUDADANA
+ALEJANDRA
+GUTIÉRREZ
+CAMPOS,
+PRESIDENTA MUNICIPAL DE LEÓN, ESTADO DE GUANAJUATO, A LOS HABITANTES DEL MISMO HACE SABER:
+EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL QUE PRESIDO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 117 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO, 76 FRACCIÓN I INCISO B), 236, 239 FRACCIÓN II Y 240 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; EN SESIÓN ORDINARIA CELEBRADA EL 28 DE OCTUBRE DE 2021, APROBÓ EL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE LEÓN, GUANAJUATO, DE CONFORMIDAD CON LA SIGUIENTE:
+EXPOSICIÓN DE MOTIVOS
+La sociedad es un elemento dinámico sujeto de cambios y como parte integrante de ésta, las y los servidores públicos deben fungir como un elemento que permita adecuar el actuar público a la realidad que exige la población.
+En lo particular, la administración pública municipal es la primer instancia gubernamental con la que la ciudadanía tiene contacto, esencialmente para la prestación y garantía de servicios públicos de calidad, lo cual exige una permanente actualización de la reglamentación municipal para otorgar los resultados requeridos, de manera eficaz y eficiente.
+Es así que bajo una visión extensiva e inclusiva, se ha impuesto la meta de alcanzar dichos parámetros y cumplir a cabalidad cada una de las exigencias de la sociedad. Por este motivo, se estructura un esquema orgánico orientado a la obtención de un mayor nivel de desarrollo que impacte directamente en la estabilidad social y económica de las y los leoneses.
+Por lo anterior, no podemos dejar de lado las circunstancias que nos ocupan, visualizando que aún nos sujetamos a los efectos de la pandemia del COVID-19, cuyas consecuencias han implicado un ajuste en la forma de trabajar, por ello debemos adecuar las dinámicas hoy vigentes a efecto de lograr los resultados pretendidos.
+Presidencia Municipal de León
+Publicación: P.O. 29 de octubre de 2021
+Reglamento Interior de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 07 de octubre de 2025
+En un primer término, con la finalidad de adecuar la normatividad vigente que sustenta la operación y funcionamiento del modelo de seguridad ciudadana en el municipio, se determina que la instancia encargada de garantizar la tranquilidad y la paz social sea la Secretaría de Seguridad, Prevención y Participación Ciudadana, mediante una estructura preventiva, reactiva y con un tramo de control reducido, la cual contará con dos nuevas áreas denominadas Dirección de Enlace y coordinación con las Fiscalías y el Comisionado de Prevención y Atención Ciudadana, encargadas de dirigir, supervisar, apoyar y vigilar de manera más eficiente el adecuado funcionamiento de las direcciones generales y de área que integran la dependencia. Se resalta que la creación de la Dirección de Enlace y Coordinación con las Fiscalías se estatuye con la finalidad de presentar denuncias o querellas por daños causados a bienes municipales y para fortalecer la vinculación sobre asuntos relacionados con las funciones policiales de la dependencia.
+Asimismo, una vez adecuadas las funciones a cargo de la Secretaría de Seguridad, Prevención y Participación Ciudadana, se considera que la Dirección General de Fiscalización y Control debe formar parte de la cadena de instancias de que prevengan de manera efectiva la comisión de conductas que pongan en riesgo el orden y funcionamiento de establecimientos o eventos públicos.
+En un segundo término, una vez fusionadas la Dirección General de Desarrollo Social y Humano con la de Desarrollo Rural, se abre paso a la creación de la Secretaría para el Fortalecimiento Social de León, con la cual se busca eficientar recursos materiales, humanos y presupuestales, además de unificar un esquema operativo de atención de acuerdo a sus atribuciones y a la nueva demarcación delegacional en la cual trabajará la administración pública municipal, propiciando de esta forma la participación y desarrollo humano de los habitantes de colonias y comunidades que integran el territorio municipal. En consecuencia, dentro de la Dirección General de Desarrollo Urbano se ajustan las denominaciones de las Direcciones de Zona de conformidad a la división delegacional mencionada.
+En el mismo sentido y en atención a la situación global referente a la pandemia por el COVID-19, ha sido necesario disminuir y cancelar actividades económicas, turísticas o cotidianas a nivel mundial. Para el caso de nuestro municipio, se considera necesario generar estrategias y acciones que permitan focalizar recursos y esfuerzos en materia económica, turística y de innovación, es por ello que las Direcciones Generales de Economía, Hospitalidad y Turismo, así como de Innovación, se integran en una sola dependencia denominada Secretaría para la Reactivación Económica de León. Tomando en consideración parte de las atribuciones que tiene a cargo la Dirección de Mejora Regulatoria, se propone que quede bajo la rectoría de la Secretaría de Ayuntamiento lo correspondiente a la regulación de los trámites internos, mientras que en la Dirección General de Economía mantenga lo relativo a la apertura de empresas.
+Aunado a lo anterior, también se identifica a la Secretaría de Vinculación y Atención a los Leoneses como unidad central de apoyo a las funciones de la
+Presidencia Municipal de León
+Publicación: P.O. 29 de octubre de 2021
+Reglamento Interior de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 07 de octubre de 2025
+Presidencia Municipal, principalmente en el acercamiento a la ciudadanía a través de una atención más humana, cercana y de calidad, donde más personas puedan participar en las decisiones para mejorar su entorno, su comunidad y calidad de vida.
+Por lo anterior, las atribuciones de la referida dependencia permiten implementar proyectos encaminados a un nuevo modelo de gobierno de atención 24/7, que incluye un programa de presupuesto participativo en donde las y los leoneses proponen y deciden proyectos de mejora en su entorno. Asimismo, a través de un nuevo modelo de organización delegacional, la ciudadanía podrá acudir a oficinas situadas en distintos puntos del municipio donde realizarán trámites o servicios a cargo de la administración pública municipal.
+En el mismo tenor, con la nueva Dirección de Gestión y Enlace Administrativa se logrará una mayor coordinación administrativa entre las direcciones que conforman la Tesorería, a efecto de alcanzar un trabajo articulado y efectivo para avanzar en la construcción de políticas, planes, programas y proyectos administrativos enfocados en los lineamientos de racionalidad, austeridad y disciplina financiera, así como en el uso racional y eficiente de los recursos en el ámbito de competencia de la Tesorería Municipal.
+De igual forma, gracias a la creación de la Dirección General de Gestión Gubernamental se busca lograr una alineación total de la estrategia de gobierno en todos los niveles, vigilando el cumplimiento de metas e impactos reales que se traduzcan en una mejor calidad de vida para la ciudadanía leonesa. Lo anterior será posible a través de las acciones de vinculación y articulación, así como de procesos de inteligencia y de análisis estratégico de información, que permita una mejor y oportuna toma de decisiones como parte de la gestión del gobierno.
+Finalmente, adscrita a la Dirección General de Medio Ambiente se establece la Dirección de la Red de Parques cuya labor se desarrollará específicamente en áreas verdes recreativas ubicadas en todo el municipio, desde la articulación de la conectividad ambiental para favorecer la flora y la fauna del sistema de parques, hasta la promoción y difusión de actividades que en ellas se realicen.
+Por todo lo anterior, resulta indispensable plasmar en este Reglamento un nuevo esquema que refleje la dinámica y condiciones de nuestra comunidad, teniendo como propósito la delimitación de directrices específicas, dentro de un marco jurídico acorde con esa realidad económica y social presente en el Municipio.
+Presidencia Municipal de León
+Publicación: P.O. 29 de octubre de 2021
+Reglamento Interior de la Administración Pública Municipal de León, Guanajuato Última reforma: P.O. 07 de octubre de 2025
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA
+MUNICIPAL DE LEÓN, GUANAJUATO
+Título Primero
+Disposiciones Generales
+Capítulo Único
+Disposiciones Generales
+Objeto Artículo 1. El presente reglamento tiene por objeto regular la organización, atribuciones y competencia de las dependencias de la administración pública municipal centralizada, así como el establecimiento de disposiciones generales y complementarias de la administración pública paramunicipal y de participación ciudadana.
+Glosario

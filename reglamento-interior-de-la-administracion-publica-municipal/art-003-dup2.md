@@ -1,0 +1,1 @@
+Artículo Tercero. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente acuerdo, se tramitarán hasta su total conclusión conforme a las disposiciones vigentes en el momento en que inició su trámite.
