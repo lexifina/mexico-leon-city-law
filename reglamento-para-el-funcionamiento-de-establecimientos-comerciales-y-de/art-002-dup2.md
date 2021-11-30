@@ -1,0 +1,1 @@
+Artículo Segundo. Se abroga el Reglamento para el Funcionamiento de Establecimientos Comerciales y de Servicios en el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 168, Segunda Parte, de fecha 24 de agosto de 2021.
