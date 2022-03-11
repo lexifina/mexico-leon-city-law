@@ -1,0 +1,11 @@
+ARTICULO ÚNICO.- Se REFORMA la fracción I del artículo 16 del Reglamento del Instituto Municipal de Planeación de León, Guanajuato.
+ARTÍCULOS TRANSITORIOS
+Primero.- La presente reforma entrará en vigor al cuarto día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Segundo.- Por esta ocasión, los representantes del H. Ayuntamiento que formarán parte del Consejo Directivo del Instituto de conformidad con la presente reforma, asumirán el cargo a la entrada en vigor de la misma sin que medie nombramiento o ratificación alguna, y permanecerán en su cargo hasta el término de la presente Administración Municipal 2009-2012.
+Tercero.- Se derogan todas las disposiciones normativas que se opongan a la presente reforma.
+P.O. Número 164, tercera parte, de fecha 13 de octubre de 2015.
+Exposición de motivos
+La planeación para el desarrollo del Municipio debe realizarse desde un punto de vista interdisciplinario y con una visión integral, tomando cuenta los diferentes aspectos que inciden en la realidad municipal como el social, educativo, económico entre otros.
+Bajo esa tesitura, con la intención de integrar al Consejo Directivo del IMPLAN una perspectiva de desarrollo económico, que contribuya a lograr una visión más amplia en las acciones que este realice, se propone integrar al mismo a un representante del Consejo Consultivo para el Desarrollo Económico del Municipio de León, Guanajuato.
+El Consejo Consultivo para el Desarrollo Económico del Municipio de León, Guanajuato es un organismo auxiliar de la administración de carácter consultivo en el que participan expertos en las áreas de economía y finanzas; infraestructura y recursos naturales; educación, sindicatos o administración de recursos humanos; iniciativa privada-sector empresarial; análisis de mercado y comercio exterior, todo ello con el propósito de impulsar el desarrollo económico equilibrado y sustentable en el municipio.
+En este sentido, la representación del Consejo Consultivo para el Desarrollo Económico del Municipio de León, Guanajuato como un organismo experto en la materia, integrará al Consejo Directivo del Instituto Municipal de Planeación una visión económica desde el punto de vista ciudadano.
