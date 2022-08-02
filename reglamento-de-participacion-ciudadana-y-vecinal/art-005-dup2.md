@@ -1,0 +1,1 @@
+Artículo Quinto. Se otorga un plazo de sesenta días naturales posteriores a la entrada en vigor de las presentes reformas, a efecto de que la Secretaría para el Fortalecimiento Social de León a través de la Dirección General de Desarrollo Social emita el manual de procedimiento para la integración, administración y funcionamiento de los Comités de Colonos.
