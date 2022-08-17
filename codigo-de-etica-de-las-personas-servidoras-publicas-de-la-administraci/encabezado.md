@@ -1,0 +1,18 @@
+CÓDIGO
+ÉTICA DE
+DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE LEÓN, GUANAJUATO.
+Contraloría Municipal de León, Guanajuato
+Licenciada Viridiana Margarita Márquez Moreno, Contralora Municipal de León, Guanajuato, con fundamento en los artículos 124 fracción II de la Constitución Política del Estado Libre y Soberano de Guanajuato; 16 de la Ley General de Responsabilidades Administrativas; 6, 7, 16 y 49 fracción I de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato; 5 de la Ley del Sistema Estatal Anticorrupción de Guanajuato; 124 fracción III y 131 de la Ley Orgánica Municipal para el Estado de Guanajuato, y los numerales Primero, Quinto, Sexto, Séptimo, Octavo y Noveno del Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se reﬁere el artículo 16 de la Ley General de Responsabilidades Administrativas, y
+C O N S I D E R A N D O
+La Contraloría Municipal es una dependencia de la Administración Pública Municipal que cuenta con autonomía técnica y de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna.
+En el ejercicio de las funciones conferidas a este Órgano Interno de Control, tiene la encomienda y compromiso de regular las conductas de los servidores públicos municipales para lograr una conducta ética y el uso adecuado de recursos públicos, así como establecer los medios adecuados para fomentar las denuncias de los actos de corrupción, a efecto de preservar la honestidad, conﬁanza e integridad de las personas que conforman la administración pública municipal en la ciudadanía.
+En este sentido, es menester para este Órgano de Control Interno actualizar el marco normativo que contiene las bases y alcances para que las personas servidoras públicas se conduzcan en el desempeño de sus labores bajo los principios constitucionales y legales, valores y reglas de integridad de actuación pública, desempeño permanente con integridad, igualdad laboral y no discriminación, y de comportamiento digno, así como la difusión y capacitación en esta materia; las obligaciones de las dependencias y entidades de la administración pública municipal para constituir Comités de Ética con la ﬁnalidad de que promocionen, fomenten y vigilen su aplicación y así lograr una adecuada concientización y prevención de actos de corrupción e impere en su desempeño una conducta ética, integral, incluyente y no discriminación, así como de prevención de conﬂictos de interés.
+Lo precedente una vez que legalmente se otorga la responsabilidad a los servidores públicos de observar el Código de Ética, para que en su actuación impere ante todo una conducta digna que responda a las necesidades de la sociedad y los oriente su desempeño y además sirva como instrumento para guiar y apoyar a las personas servidoras públicas en el desempeño de las funciones, cargos o comisiones por medio del respeto a los derechos humanos fomentando la igualdad y la no discriminación y el comportamiento digno en todos los ámbitos.
+Por lo anteriormente expuesto, es primordial actualizar el presente Código de Ética para poder regular la actuación de las personas servidoras públicas de la administración pública municipal, a través del Código de Ética de las Personas Servidoras Públicas de la Administración Pública Municipal de León, Guanajuato.
+Por lo anteriormente expuesto y con fundamento en las disposiciones previamente señaladas, se expide el siguiente:
+CÓDIGO DE ÉTICA
+DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+DE LEÓN, GUANAJUATO.
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Objeto
