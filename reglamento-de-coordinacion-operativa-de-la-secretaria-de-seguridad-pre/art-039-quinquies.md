@@ -1,0 +1,4 @@
+Artículo 39 quinquies. La Dirección de Operaciones Policiales y la Dirección de Policía Vial, en coordinación con la Dirección de Proyectos Estratégicos y Desarrollo Policial tendrán acceso al material digital obtenido por las cámaras corporales, con la finalidad de utilizarse para medir, evaluar y generar un proceso de mejora continua en el actuar del personal operativo, así como compartir resultados que permitan fortalecer la formación de los cadetes de la Academia Metropolitana de Seguridad Pública de León, Guanajuato.
+De igual manera, las unidades administrativas señaladas en el párrafo anterior tendrán acceso a la información generada por los sistemas de posicionamiento global colocados en los vehículos destinados al patrullaje con el fin de eficientar los tiempos de respuesta a los requerimientos de la población.
+Artículo adicionado P.O. 13-06-2024
+Informes

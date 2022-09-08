@@ -1,0 +1,15 @@
+Artículo Primero. Se adicionan un segundo párrafo al artículo 10, así como los artículos 39 bis, 39 ter, 39 quáter, 39 quinquies, 39 sexies del Reglamento de Coordinación Operativa de la Secretaría de Seguridad, Prevención y Protección Ciudadana de León, Guanajuato.
+Nota del editor: El contenido del Artículo Segundo del Acuerdo, es aplicable para un ordenamiento distinto al presente, por lo que, si se requiere de su consulta, está íntegro en la Publicación Original. ARTÍCULOS TRANSITORIOS
+Inicio de vigencia
+Primero. Las presentes disposiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Derogación de otras disposiciones
+Segundo. Se derogan todas aquellas disposiciones reglamentarias y administrativas municipales que se opongan al presente Acuerdo.
+Gestiones para contar con cámaras corporales
+Tercero. La persona titular de la Secretaría de Seguridad, Prevención y Protección Ciudadana, realizará las gestiones necesarias con la Tesorería Municipal para que la totalidad del personal operativo de la Dirección General de Policía Municipal y Policía Vial, además del personal de verificación o inspección de la Dirección General de Fiscalización y Control, cuente con cámaras corporales para el desempeño de sus funciones así como los sistemas de posicionamiento global para las unidades destinadas al patrullaje de la ciudad.
+Asimismo, la persona titular de la Secretaría para la Reactivación Económica de León, realizará las gestiones necesarias con la Tesorería Municipal para que la totalidad del personal de verificación o inspección de la Dirección de Comercio, Consumo y Abasto, cuente con cámaras corporales para el desempeño de sus funciones.
+Informe inicial
+Cuarto. Se otorga un plazo de 15 días naturales siguientes a la entrada en vigor de las presentes reformas para que la persona titular de la Secretaría de Seguridad, Prevención y Protección Ciudadana rinda informe inicial en atención a lo establecido en el artículo 39 quáter del presente Acuerdo.
+En el mismo plazo indicado en el párrafo anterior, los titulares de la Secretaría de Seguridad, Prevención y Protección Ciudadana y de la Secretaría para la Reactivación Económica de León deberán presentar, ante la Comisión Municipal en materia de Seguridad Pública, un plan y cronograma de trabajo para dar cumplimiento a lo establecido en el artículo Tercero Transitorio.
+Lineamientos sobre el uso y funcionamiento
+de las cámaras corporales
+Quinto. A partir de la entrada en vigor de las presentes disposiciones, las personas titulares de la Secretaría de Seguridad, Prevención y Protección Ciudadana y de la Secretaría para la Reactivación Económica de León, contarán con un plazo de 90 días naturales para elaborar de manera respectiva los lineamientos sobre el uso y funcionamiento de las cámaras corporales, así como los relativos al resguardo, almacenamiento, control y registro del material digital contenido en las cámaras corporales, además de su mantenimiento, inspección y control.
