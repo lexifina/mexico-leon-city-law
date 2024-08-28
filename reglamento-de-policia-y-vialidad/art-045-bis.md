@@ -1,0 +1,3 @@
+Artículo 45 bis.- Desahogado el procedimiento administrativo ante el juez cívico y, en su caso, cumplida la sanción impuesta, la niña, niño o adolescente que no cuente con la asistencia de quien ejerza la patria potestad, tutela, curatela, custodia o a la persona responsable o de confianza del mismo, el juez cívico lo pondrá a resguardo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes o de la Subdirección de la Procuraduría Auxiliar del Sistema para el Desarrollo Integral de la Familia, para garantizar su integridad, tomando en consideración el principio del interés superior de la niñez.
+Artículo adicionado P.O. 18-07-2023
+Multa a menores de edad
