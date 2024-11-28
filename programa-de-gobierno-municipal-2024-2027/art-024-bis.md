@@ -1,0 +1,3 @@
+Artículo 24 bis
+Los instrumentos del Sistema de Planeación deberán contener, por lo menos, un diagnóstico general sobre la problemática que buscan atender, los objetivos específicos y su contribución al logro de las metas del Plan Estatal o Municipal de Desarrollo, las estrategias y líneas de acción que permitan alcanzar los objetivos del programa, así como los indicadores de desempeño que permitan su monitoreo, evaluación y actualización. En todos los casos, establecerán los mecanismos para incorporar de forma transversal la perspectiva de género.
+Por su parte, la Ley para el Gobierno y Administración de los Municipios del Estado de Guanajuato en su artículo 275, de igual manera, especifica cuáles son los instrumentos de planeación del desarrollo.
