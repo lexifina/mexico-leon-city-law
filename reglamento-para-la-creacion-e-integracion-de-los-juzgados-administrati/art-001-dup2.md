@@ -1,0 +1,2 @@
+Artículo Primero. Las presentes disposiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+Nota del editor: El Artículo Segundo Transitorio del Acuerdo no tiene relación con Reglamento para la Creación e Integración de los Juzgados Administrativos Municipales y la Defensoría de Oficio en Materia Administrativa de León, Guanajuato. Si se requiere de su consulta, se encuentra de manera íntegra en la publicación oficial.
