@@ -1,0 +1,4 @@
+ARTÍCULO 116 BIS.- En caso de actos flagrantes que impliquen un riesgo inminente, la Unidad considerando la naturaleza de los agentes perturbadores, podrá dictar y ejecutar las medidas de seguridad descritas en el presente capítulo y las medidas técnicas de urgente aplicación para proteger la vida de las personas y sus bienes, la planta productiva y el medio ambiente, así como garantizar el buen funcionamiento de los servicios públicos en un área determinada, sin mediar la emisión de un mandamiento escrito por la persona titular de la Unidad para su ejecución a que se refiere el presente Reglamento.
+Artículo reformado P.O. 03-10-2025 Artículo adicionado P.O. 31-05-2011
+Presidencia Municipal de León Publicación: P.O. 11 de septiembre de 2001
+Reglamento del Sistema Municipal de Protección Civil de León, Gto. Última reforma: P.O. 03 de octubre de 2025

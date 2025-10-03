@@ -1,0 +1,4 @@
+ARTÍCULO ÚNICO.- SE REFORMAN los artículos 53 fracción IV, inciso c); 54 fracción IV inciso c); 55 Bis fracción II; 56 fracciones I y III; 71 fracción III; y la fracción VI del Anexo Cuatro denominado Guía para la Elaboración del Programa Interno de Protección Civil; SE DEROGAN la fracción II del artículo 53; la fracción II del artículo 54; la fracción I del artículo 55; todos del Reglamento del Sistema Municipal de Protección Civil de León, Gto., Publicado en el Periódico Oficial del Gobierno del Estado número 73, Segunda Parte, de fecha 11 de septiembre de 2001.
+T R A N S I T O R I O S
+PRIMERO.- La presente modificación entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+SEGUNDO.- Se derogan todas aquellas disposiciones normativas que se opongan a la presente modificación. P.O. número 125, Tercera Parte, de fecha 06 de agosto de 2010.

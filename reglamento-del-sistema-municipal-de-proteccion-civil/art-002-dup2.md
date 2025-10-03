@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Los procedimientos que a la entrada en vigor de las presentes reformas se encuentren en trámite, continuarán realizándose hasta su resolución conforme a las disposiciones que con el presente acuerdo se modifican.
