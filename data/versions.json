@@ -1,0 +1,1363 @@
+{
+ "country": "MX-GUA-LEON",
+ "acts": [
+  {
+   "slug": "reglamento-de-justicia-civica",
+   "short": "Reglamento de Justicia Cívica para el Municipio de León, Guanajuato",
+   "title": "Reglamento de Justicia Cívica para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=31",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 46,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201905151000220.REGLAMENTO%20DE%20JUSTICIA%20CIVICA.pdf",
+     "sha256": "e06b0430af033cce79c2246807e41affcd101f7eeefecd1b61adbea1edc8f7f2"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-policia-y-vialidad",
+   "short": "Reglamento de Policía y Vialidad para el Municipio de León, Guanajuato",
+   "title": "Reglamento de Policía y Vialidad para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=91",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 174,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Polica_y_Vialidad_para_el_-945705416-detreg-142.pdf",
+     "sha256": "3e891df0965f08db3db218f2930b624a8b8ea59137edad2d69801f28820c3b28"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interior-del-h-ayuntamiento",
+   "short": "Reglamento Interior del H. Ayuntamiento de León, Guanajuato",
+   "title": "Reglamento Interior del H. Ayuntamiento de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=50",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 141,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_Interior_del_H_Ayuntamiento_d-326533222-detreg-146.pdf",
+     "sha256": "c28ce252fa7e3c1e635f06c0873f20efe1d989e77f17a6e55abd8af33a000f77"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-interior-de-la-administracion-publica-municipal",
+   "short": "Reglamento Interior de la Administración Pública Municipal de León, Guanajuato",
+   "title": "Reglamento Interior de la Administración Pública Municipal de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=78",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 280,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_Interior_de_la_Administracin_-1687809973-detreg-170.pdf",
+     "sha256": "c37a87b792ea2d2bd9a0e74e3191bc62a8f92f994046f2c53710d20bc2dfadca"
+    }
+   ]
+  },
+  {
+   "slug": "acuerdo-para-la-creacion-del-sistema-para-el-desarrollo-integral-de-la",
+   "short": "Acuerdo para la Creación del Sistema para el Desarrollo Integral de la Familia e",
+   "title": "Acuerdo para la Creación del Sistema para el Desarrollo Integral de la Familia en el Municipio de León, Gto.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=15",
+   "versions": [
+    {
+     "from": "1988-08-12",
+     "units": 2,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200906020651270.acuerdo.pdf",
+     "sha256": "eabe591d12f773f92372a2b8a9fd780d22a6f36a3dcebe17da9172c184733a69"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-espectaculos-taurinos",
+   "short": "Reglamento de Espectáculos Taurinos para el Municipio de León, Estado Guanajuato",
+   "title": "Reglamento de Espectáculos Taurinos para el Municipio de León, Estado Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=2",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 101,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201701311042270.REGLAMENTO%20DE%20ESPECTACULOS%20TAURINOS.pdf",
+     "sha256": "ad99dc3cefc40b3b6eb77af627db4659cdd837eb0a956ace453ec4f518dbfe97"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-estacionamientos-publicos",
+   "short": "Reglamento de Estacionamientos Públicos para el Municipio de León, Guanajuato",
+   "title": "Reglamento de Estacionamientos Públicos para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=3",
+   "versions": [
+    {
+     "from": "1994-05-17",
+     "units": 35,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200506290908380.R7.pdf",
+     "sha256": "3629797e95bd3cd9f03deeaf1ebd163b2dbee42b5d7b190103aee7ca61e1fa49"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-proteccion-mejoramiento-y-conservacion-de-la-imagen",
+   "short": "Reglamento para la Protección, Mejoramiento y Conservación de la Imagen Urbana",
+   "title": "Reglamento para la Protección, Mejoramiento y Conservación de la Imagen Urbana",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=35",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 96,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201701301512380.REGLAMENTO%20PARA%20LA%20PROTECCI%C3%93N%2C%20MEJORAMIENTO%20Y%20CONSERVACI%C3%93N%20DE%20LA%20IMAGEN%20URBANA.pdf",
+     "sha256": "1b3626d3c75905d851e114bf3ac436c2ca2a9911e420cde7af71fe340bd3a165"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-espectaculos-y-festejos-publicos",
+   "short": "Reglamento de Espectáculos y Festejos Públicos",
+   "title": "Reglamento de Espectáculos y Festejos Públicos",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=44",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 48,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202308192003040.REGLAMENTO_DE_ESPECTACULOS_Y_FESTEJOS_PUBLICOS%202023.pdf",
+     "sha256": "ab34b1037f2515e2500afb493133ddf33a789590ef2ffdcf2164a1a8eb804d20"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-patronato-explora",
+   "short": "Reglamento Patronato Explora",
+   "title": "Reglamento Patronato Explora",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=56",
+   "versions": [
+    {
+     "from": "1998-11-13",
+     "units": 51,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201412191441470.Reglamento%20Explora.pdf",
+     "sha256": "88097d6e8bb18c48956106c6c8c44e29454c9408895a0418f5ba85c257818e99"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-instituto-municipal-de-planeacion",
+   "short": "Reglamento del Instituto Municipal de Planeación de León, Guanajuato",
+   "title": "Reglamento del Instituto Municipal de Planeación de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=19",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 69,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202203151542510.220315%20Reglamento%20IMPLAN.pdf",
+     "sha256": "84d988474c4c79f873a0a70f4cae9e7774897b5e70ff1443cb8839c97e7c1295"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-municipal-de-proteccion-civil",
+   "short": "Reglamento del Sistema Municipal de Protección Civil de León, Guanajuato",
+   "title": "Reglamento del Sistema Municipal de Protección Civil de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=43",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 159,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Sistema_Municipal_de_Prot-1897667486-detreg-177.pdf",
+     "sha256": "4e15b0c0025ba2bfdb1d1ffc19a3e021a37132c850b3d054fb1a30f87512d75b"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-para-la-proteccion-de-personas-no-fumado",
+   "short": "Disposiciones Administrativas para la protección de personas no fumadoras de Leó",
+   "title": "Disposiciones Administrativas para la protección de personas no fumadoras de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=5",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 14,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Disposiciones_Administrativas_para_la_pr-27721857-detreg-171.pdf",
+     "sha256": "e4bcccb70aa88aea60e8485bc24fd9669b5856af53fa70d2e5ca25fc15fec56f"
+    }
+   ]
+  },
+  {
+   "slug": "acuerdo-para-la-creacion-y-funcionamiento-de-la-unidad-de-acceso-a-la",
+   "short": "Acuerdo para la creación y funcionamiento de la Unidad de Acceso a la Informació",
+   "title": "Acuerdo para la creación y funcionamiento de la Unidad de Acceso a la Información Pública del Municipio de Léon, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=1",
+   "versions": [
+    {
+     "from": "2004-03-23",
+     "units": 2,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200612061232400.ACUERDO%20DE%20CREACION%20DE%20LA%20UNIDAD%20DE%20ACCESO%20A%20LA%20INFORMACION%20PUBLICA.pdf",
+     "sha256": "db7073c525977ea2b22a62572d391bc3a6293d38b507fb64dc737b7160a6ed71"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-patronato-de-educacion-contra-el-uso-de-drogas-y-violen",
+   "short": "Reglamento del Patronato de Educación Contra el Uso de Drogas y Violencia del Mu",
+   "title": "Reglamento del Patronato de Educación Contra el Uso de Drogas y Violencia del Municipio de León, Guanajuato (D.A.R.E León)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=8",
+   "versions": [
+    {
+     "from": "2007-10-16",
+     "units": 26,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200711160937310.REGLAMENTO%20DARE.pdf",
+     "sha256": "94a3cf4be7dff4d506cc1d895d3c78ee3e54faea5386369a7887a2b744e0d93a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-ciudades-hermanas",
+   "short": "Reglamento del Consejo de Ciudades Hermanas del Municipio de León, Guanajuato",
+   "title": "Reglamento del Consejo de Ciudades Hermanas del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=51",
+   "versions": [
+    {
+     "from": "2008-02-22",
+     "units": 29,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201410171551000.CIUDADES%20HERMANAS%20.pdf",
+     "sha256": "7c977e432609b942279938a36a8c9f66da93011e662d281a50ec757d6a66da2b"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-para-la-administracion-operacion-y-uso-d",
+   "short": "Disposiciones Administrativas para la Administración, Operación y Uso de las Min",
+   "title": "Disposiciones Administrativas para la Administración, Operación y Uso de las Minideportivas Municipales de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=21",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 30,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201711290955380.ADMINISTRACI%C3%93N%2C%20OPERACI%C3%93N%20Y%20USO%20DE%20LAS%20MINIDEPORTIVAS%20MUNICIPALES%20DE%20LE%C3%93N%2C%20GUANAJUATO..pdf",
+     "sha256": "72ff0bbf97d53d0b1d61c06608adc1e9d84d9a68ed1dfc4cf9d8a6c7e192e69b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-el-desarrollo-sustentable-en-ma",
+   "short": "Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia de U",
+   "title": "Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia de Urbanismo",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=63",
+   "versions": [
+    {
+     "from": "2008-07-04",
+     "units": 30,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202107231502270.REGLAMENTO_DEL_CONSEJO_CONSULTIVO_EN_MATERIA_DE_URBANISMO.pdf",
+     "sha256": "72577687065e9b2bfa1188e6d1f976afba6c902e7bb3b39389ae760d5f0b35ea"
+    }
+   ]
+  },
+  {
+   "slug": "acuerdo-por-el-que-se-aprueban-los-signos-leoneses-oficiales",
+   "short": "Acuerdo por el que se aprueban los Signos Leoneses Oficiales",
+   "title": "Acuerdo por el que se aprueban los Signos Leoneses Oficiales",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=16",
+   "versions": [
+    {
+     "from": "2008-10-17",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200908171528510.SIGNOS%20LEONESES.pdf",
+     "sha256": "83d0de3e435dc33be0f4dac20c21901fa186f4085c85bb88299865079056f555"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-patronato-de-la-ciudad-historica",
+   "short": "Reglamento del Patronato de la Ciudad Histórica de León, Guanajuato",
+   "title": "Reglamento del Patronato de la Ciudad Histórica de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=10",
+   "versions": [
+    {
+     "from": "2009-04-17",
+     "units": 50,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/200905121525180.reglamento%20publicado.pdf",
+     "sha256": "82cfafc9c0d2cf5c917542bdc7701e27323bc95007a1cf921bb37959323107b3"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-entrega-recepcion-de-la-administracion-publica-muni",
+   "short": "Reglamento para la Entrega-Recepción de la Administración Pública Municipal de L",
+   "title": "Reglamento para la Entrega-Recepción de la Administración Pública Municipal de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=30",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 41,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_para_la_EntregaRecepcin_de_la-1498636670-detreg-175.pdf",
+     "sha256": "7fdccc9a13314921681421826d00991617b442ee83eefe221295741a29f2f562"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-que-regulan-los-gastos-de-transicion",
+   "short": "Disposiciones Administrativas que Regulan los Gastos de Transición",
+   "title": "Disposiciones Administrativas que Regulan los Gastos de Transición",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=58",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 17,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Disposiciones_Administrativas_que_Regula-1576333022-detreg-187.pdf",
+     "sha256": "744f1f1415872eca9f123378e7f89acac7670eb782c42d113e0e6028e986b43c"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-participacion-social-en-la-educacion",
+   "short": "Reglamento del Consejo de Participación Social en la Educación del Municipio de ",
+   "title": "Reglamento del Consejo de Participación Social en la Educación del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=20",
+   "versions": [
+    {
+     "from": "2018-07-24",
+     "units": 37,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201807261309350.REGLAMENTO%20DEL%20CONSEJO%20DE%20PARTICIPACI%C3%93N%20EN%20LA%20EDUCACI%C3%93N.pdf",
+     "sha256": "1f93eed5a1e2c7917a7ff55a0b80b3d8e097d4fdb4c2b711e5f3b6d9abc886d1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-procedimientos-de-auditoria-para-las-dependencias-y-enti",
+   "short": "Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del ",
+   "title": "Reglamento de Procedimientos de Auditoría para las Dependencias y Entidades del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=23",
+   "versions": [
+    {
+     "from": "2010-06-29",
+     "units": 36,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201007191427140.auditoria.pdf",
+     "sha256": "18997ba9e639e56a48ee6db1e71da0412b79bccc87edc76edbbf3d8188b5a615"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-mercados-publicos-y-uso-de-la-via-publica-para-el-ejerci",
+   "short": "Reglamento de Mercados Públicos y Uso de la Vía Pública para el Ejercicio de la ",
+   "title": "Reglamento de Mercados Públicos y Uso de la Vía Pública para el Ejercicio de la Actividad Comercial en el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=46",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 188,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202311241043450.REGLAMENTO%20DE%20MERCADOS%20PUBLICOS%20Y%20USO%20DE%20LA%20VIA%20PUBLICA.pdf",
+     "sha256": "c08df5f22a4808e547a4d2b266568b7582eaad6ccd8d13ac78a53bf5bba3cfc5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-prestacion-del-servicio-publico-de-panteones",
+   "short": "Reglamento para la Prestación del Servicio Público de Panteones",
+   "title": "Reglamento para la Prestación del Servicio Público de Panteones",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=24",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 95,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_para_la_Prestacin_del_Servici-1610336792-detreg-173.pdf",
+     "sha256": "bb14f51dcb7fca20203d73518574da696eef08b09db5ab9a6830a5c8e113aa39"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-proyectos-de-prestacion-de-servicios",
+   "short": "Reglamento de Proyectos de Prestación de Servicios para el Municipio de León, Gu",
+   "title": "Reglamento de Proyectos de Prestación de Servicios para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=25",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 74,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201701311028540.REGLAMENTO%20DE%20PROYECTOS%20DE%20PRESTACION%20DE%20SERVICIOS.pdf",
+     "sha256": "21d3194a957c171208c8c9608941f1c7768b265ba21eba84f0173f3f25f50d98"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-catastro-multifinalitario",
+   "short": "Reglamento del Catastro Multifinalitario del Municipio de León, Guanajuato",
+   "title": "Reglamento del Catastro Multifinalitario del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=27",
+   "versions": [
+    {
+     "from": "2011-02-15",
+     "units": 52,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201102171523440.catastro.pdf",
+     "sha256": "e30907c5b3005d9c9e293cd63183409cd267264e2ba7d81e2cdaae22b2401e79"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-indigena",
+   "short": "Reglamento del Consejo Consultivo Indígena del Municipio de León, Guanajuato",
+   "title": "Reglamento del Consejo Consultivo Indígena del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=28",
+   "versions": [
+    {
+     "from": "2011-05-24",
+     "units": 24,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201105310848470.indigena.pdf",
+     "sha256": "400e16ccc9406b1fa0bd89ac1cd2b50d688d66b3bf6257c8c936a084c1bb1159"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-servicio-profesional-de-carrera-policial",
+   "short": "Reglamento del Servicio Profesional de Carrera Policial del Municipio de León, G",
+   "title": "Reglamento del Servicio Profesional de Carrera Policial del Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=64",
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 133,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201909251145280.REGLAMENTO%20DEL%20SERVICIO%20PROFESIONAL%20DE%20CARRERA%20POLICIAL%20DEL%20MUNICIPIO%20DE%20LEON%2C%20GUANAJUATO.pdf",
+     "sha256": "c436ff09137dd96218348f41627394cf27aebc14a51d67d95a1e381e6927313e"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-patronato-del-parque-ecologico-metropolitano-oriente",
+   "short": "Reglamento del Patronato del Parque Ecológico Metropolitano Oriente",
+   "title": "Reglamento del Patronato del Parque Ecológico Metropolitano Oriente",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=53",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 50,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201909251149020.REGLAMENTO%20PARA%20LA%20CONSTITUCION%20DEL%20PATRONATO%20DEL%20PARQUE%20METROPOLITANO%20ORIENTE.pdf",
+     "sha256": "90c7301beeadb001b9f94fc9d99b3ca039851e031e2092ae801f1ee17a0eddf1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-peritos-valuadores-externos-y-del-consejo-de-valuacion",
+   "short": "Reglamento de Peritos Valuadores Externos y del Consejo de Valuación para el Mun",
+   "title": "Reglamento de Peritos Valuadores Externos y del Consejo de Valuación para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=7",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 67,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Peritos_Valuadores_Externo-1782822006-detreg-202.pdf",
+     "sha256": "b1c55800b1c41645fb59c0d84e4c9d0579cfd021bbbdb642a72a524de6bc4aba"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-planeacion-de-desarrollo-municipal",
+   "short": "Reglamento del Consejo de Planeación de Desarrollo Municipal",
+   "title": "Reglamento del Consejo de Planeación de Desarrollo Municipal",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=36",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 36,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Consejo_de_Planeacin_de_D-1841671604-detreg-176.pdf",
+     "sha256": "9b0cb51f66e13a886b530421e47b63b65893ab942b255cea213f33d708091d91"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-municipal-de-consulta-y-participacion-ciudadana",
+   "short": "Reglamento del Consejo Municipal de Consulta y Participación Ciudadana en Materi",
+   "title": "Reglamento del Consejo Municipal de Consulta y Participación Ciudadana en Materia de Seguridad Publica",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=39",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 31,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Consejo_Municipal_de_Cons-667299984-detreg-158.pdf",
+     "sha256": "edad6e9d905e47eba2fa833581575159b7c11bb571831fdfbd8c98eb5d2ac381"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-la-proteccion-y-promocion-del-p",
+   "short": "Reglamento del Consejo Consultivo para la Protección y Promoción del Patrimonio ",
+   "title": "Reglamento del Consejo Consultivo para la Protección y Promoción del Patrimonio Histórico del Municipio",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=42",
+   "versions": [
+    {
+     "from": "2018-07-24",
+     "units": 28,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202107231527480.REGLAMENTO_DEL_CONSEJO_CONSULTIVO_DEL_PATRIMONIO_HIST%C3%93RICO.pdf",
+     "sha256": "51823932e60d5442cb9f0ea6331ba2d2ff09a7288b134842898601c58f2ba070"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-sobre-el-uso-de-medios-electronicos",
+   "short": "Reglamento sobre el Uso de Medios Electrónicos para el Municipio de León, Guanaj",
+   "title": "Reglamento sobre el Uso de Medios Electrónicos para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=49",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 37,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201409191552110.SOBRE%20EL%20USO%20DE%20MEDIOS%20ELECTRONICOS.pdf",
+     "sha256": "a1a73b607897226d9ff79a89e1021e51f8e3f8b9d20fda3a51c15702fdc3b44d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-gestion-ambiental-en-el-municipio",
+   "short": "Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato",
+   "title": "Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=60",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 653,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_para_la_Gestin_Ambiental_en_e-2137477357-detreg-166.pdf",
+     "sha256": "445abd6a5ad1b84b1768bb21c5d661694e7bfbc40a8e2de3f51b3dded823555a"
+    }
+   ]
+  },
+  {
+   "slug": "protocolo-de-actuacion-de-la-policia-municipal-para-la-atencion-y-prot",
+   "short": "Protocolo de Actuación de la Policía Municipal para la Atención y Protección de ",
+   "title": "Protocolo de Actuación de la Policía Municipal para la Atención y Protección de las Mujeres Víctimas de Violencia de Género",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=57",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 29,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201501081221420.PROTOCOLO%20ACTUACION%20POLICIA%20MUNICIPAL.pdf",
+     "sha256": "9c0c769d8d6d970ee772e708a06dd77f34d044961a485c3d197c7e18f459a0fc"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-bibliotecas-publicas",
+   "short": "Reglamento de Bibliotecas Públicas del Municipio de León, Guanajuato",
+   "title": "Reglamento de Bibliotecas Públicas del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=67",
+   "versions": [
+    {
+     "from": "2015-08-28",
+     "units": 51,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201508311452380.BIBLIOTECAS%20PUBLICAS.pdf",
+     "sha256": "36f504fd1e41b4eeef80f29f6354d59d5b780c9cca1146840c4bd426980f648a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-de-personas-adultas-mayores",
+   "short": "Reglamento del Consejo Consultivo de Personas Adultas Mayores del Municipio de L",
+   "title": "Reglamento del Consejo Consultivo de Personas Adultas Mayores del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=71",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 32,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201510141108430.Reglamento_Adultos_Mayores.pdf",
+     "sha256": "507626cc4df5ff71ead3ab5f77aaea45ac875a60f21c0715698ced816ea56ee1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-centro-de-estudios-de-educacion-media-superior-para-la",
+   "short": "Reglamento del Centro de Estudios de Educación Media Superior para la Atención a",
+   "title": "Reglamento del Centro de Estudios de Educación Media Superior para la Atención a Jóvenes con Aptitudes Sobresalientes del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=72",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 34,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201510211308120.ACUERDO_CENTRO_DE_APRENDIZAJE.pdf",
+     "sha256": "65938c930d306d229fe11c3dbb0e2bc63775843dd1821e43911db2d27b21a491"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-de-proteccion-integral-de-ninas-ninos-y-adolesc",
+   "short": "Reglamento del Sistema de Protección Integral de Niñas, Niños y Adolescentes par",
+   "title": "Reglamento del Sistema de Protección Integral de Niñas, Niños y Adolescentes para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=73",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 44,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202103011250500.Reglamento%20del%20Sistema%20de%20Protecci%C3%B3n%20Integral%20de%20Ni%C3%B1as%2C%20Ni%C3%B1os%20y%20Adolescentes.pdf",
+     "sha256": "aebfc124946b610eb3fb224fc3e1cf39373d0c79995e69c896efc3fdddf2e3e1"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-adquisiciones-enajenaciones-arrendamientos-comodatos-y-c",
+   "short": "Reglamento de Adquisiciones, Enajenaciones, Arrendamientos, Comodatos y Contrata",
+   "title": "Reglamento de Adquisiciones, Enajenaciones, Arrendamientos, Comodatos y Contratación de Servicios para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=74",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 174,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Adquisiciones_Enajenacione-57284799-detreg-179.pdf",
+     "sha256": "5196d595508b9a76febc622732af9373f463e0b9c1313948f30ca863c5247c69"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-ciudadano-de-contraloria-social",
+   "short": "Reglamento del Consejo Ciudadano de Contraloría Social del Municipio de León, Gu",
+   "title": "Reglamento del Consejo Ciudadano de Contraloría Social del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=75",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 29,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201903191511060.Reglamento%20del%20Consejo%20Ciudadano%20de%20Contralor%C3%ADa.pdf",
+     "sha256": "2f07265eaab710231b133d8e46d110f3154018daad0397e2d398242aa365db06"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-que-establecen-el-proceso-para-la-regula",
+   "short": "Disposiciones Administrativas que establecen el Proceso para la Regularización d",
+   "title": "Disposiciones Administrativas que establecen el Proceso para la Regularización de Asentamientos Humanos en Zonas Urbanas y Rurales del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=99",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 55,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Disposiciones_Administrativas_que_establ-28100990-detreg-188.pdf",
+     "sha256": "de740b3924ab455ea15be7420a5622bde41d5d6647f6108eacf3b29c9959082b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-proteccion-a-los-animales-en-el-municipio",
+   "short": "Reglamento para la Protección a los Animales en el Municipio de León, Guanajuato",
+   "title": "Reglamento para la Protección a los Animales en el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=52",
+   "versions": [
+    {
+     "from": "2017-06-02",
+     "units": 182,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_para_la_Proteccin_a_los_Anima-1023415582-detreg-162.pdf",
+     "sha256": "b663e66b9a7beb9eaeef025509d2c1aea24353c70046325ed8df7e9ba3899c42"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-control-interno-para-la-administracion-publica-municipal",
+   "short": "Reglamento de Control Interno para la Administración Pública Municipal de León, ",
+   "title": "Reglamento de Control Interno para la Administración Pública Municipal de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=84",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 47,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Control_Interno_para_la_Ad-1206181460-detreg-178.pdf",
+     "sha256": "05308897346381ab3a4fc31b5ade893cbdfe0e345350f3b8f3e698b449061a34"
+    }
+   ]
+  },
+  {
+   "slug": "politica-publica-para-el-apoyo-a-las-actividades-de-los-equipos-profes",
+   "short": "Política Pública para el Apoyo a las Actividades de los Equipos Profesionales en",
+   "title": "Política Pública para el Apoyo a las Actividades de los Equipos Profesionales en la Gestión Municipal del Deporte en León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=86",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201805141409530.POLITICA%20PUBLICA%20PARA%20APOYO%20DE%20EQUIPOS%20PROFESIONALES.pdf",
+     "sha256": "97ec383c39ffdea623866ae56808cb0f46afe0b68224bc32ab4563f4c328ae33"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-municipal-para-el-desarrollo-rural-sustentable",
+   "short": "Reglamento del Consejo Municipal para el Desarrollo Rural Sustentable de León, G",
+   "title": "Reglamento del Consejo Municipal para el Desarrollo Rural Sustentable de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=87",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 30,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Consejo_Municipal_para_el-1828541822-detreg-190.pdf",
+     "sha256": "bcf5a9c183145a888d6b13df709e9aa3eb97b8432ad17808e9e127378e64e42b"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-propiedad-en-condominio-de-inmuebles",
+   "short": "Reglamento de Propiedad en Condominio de Inmuebles para el Municipio de León, Gu",
+   "title": "Reglamento de Propiedad en Condominio de Inmuebles para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=88",
+   "versions": [
+    {
+     "from": "2018-07-13",
+     "units": 46,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201807181034350.REGLAMENTO%20DE%20PROPIEDAD%20EN%20CONDOMINIO.pdf",
+     "sha256": "32fa1d285fba8fc63bae9c85b31f99d19e25653efb0bdbf3bd3c1978587a3b95"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-heroico-cuerpo-de-bomberos",
+   "short": "Reglamento del Heroico Cuerpo de Bomberos de León, Guanajuato",
+   "title": "Reglamento del Heroico Cuerpo de Bomberos de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=45",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 61,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202209132002490.REGLAMENTO%20DEL%20HEROICO%20CUERPO%20DE%20BOMBEROS%20DE%20LE%C3%93N%2C%20GUANAJUATO.pdf",
+     "sha256": "56c11f386c6a7c85c6e117675ad1edcd276b1be1214f47af86f71f19706b6752"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-transparencia-acceso-a-la-informacion-publica-y-protecci",
+   "short": "Reglamento de Transparencia, Acceso a la Información Pública y Protección de Dat",
+   "title": "Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=4",
+   "versions": [
+    {
+     "from": "2018-09-07",
+     "units": 72,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Transparencia_Acceso_a_la_-152977086-detreg-141.pdf",
+     "sha256": "e1a288a6204ff0c7057118fa64b017d4063a6f0669bb61fdb75e4337d03648d7"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-para-la-igualdad-sustantiva-entre-mujeres-y-hom",
+   "short": "Reglamento del Sistema para la Igualdad Sustantiva entre Mujeres y Hombres para ",
+   "title": "Reglamento del Sistema para la Igualdad Sustantiva entre Mujeres y Hombres para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=89",
+   "versions": [
+    {
+     "from": "2021-10-12",
+     "units": 46,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202110141209070.REGLAMENTO_DEL_SISTEMA_PARA_LA_IGUALDAD_SUSTANTIVA.pdf",
+     "sha256": "327853919b119ca6d748a5f31171d2323b6d8849e01023138a2a2181540efa8c"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-turistico",
+   "short": "Reglamento del Consejo Consultivo Turístico del Municipio de León, Guanajuato.",
+   "title": "Reglamento del Consejo Consultivo Turístico del Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=90",
+   "versions": [
+    {
+     "from": "2018-11-20",
+     "units": 29,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202311171050040.REGLAMENTO%20DEL%20CONSEJO%20CONSULTIVO%20TUR%C3%8DSTICO.pdf",
+     "sha256": "23c17246dbce88f305a8505f38d4f3f16f39a1bc23936308273c9d6a18ceb1ca"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-seguridad-privada",
+   "short": "Reglamento de Seguridad Privada para el Municipio de León, Guanajuato",
+   "title": "Reglamento de Seguridad Privada para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=92",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 91,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Seguridad_Privada_para_el_-284693475-detreg-92.pdf",
+     "sha256": "3b5897cfcc2ff2fb936819c6ff8b4bc2e9b9d630ef5f3a30fc19389dc0783364"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-patronato-de-la-agencia-de-desarrollo-del-plan-maestro",
+   "short": "Reglamento del Patronato de la Agencia de Desarrollo del Plan Maestro de Regener",
+   "title": "Reglamento del Patronato de la Agencia de Desarrollo del Plan Maestro de Regeneración del Barrio Arriba",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=93",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 36,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201904221211190.Reglamento%20Barrio%20Arriba.pdf",
+     "sha256": "52ff879e183fb528ad0c48b264844b5f070b6c1ba87fbace4e5b578e946db728"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-de-salud",
+   "short": "Reglamento del Consejo Consultivo de Salud del Municipio de León, Guanajuato",
+   "title": "Reglamento del Consejo Consultivo de Salud del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=94",
+   "versions": [
+    {
+     "from": "2019-06-04",
+     "units": 33,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/201906061729160.CONSEJO%20CONSULTIVO%20DE%20SALUD.pdf",
+     "sha256": "e347887f32eb0524ec98e12346e27b199ff2549a0d3981defc3b06858e37d868"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-la-creacion-e-integracion-de-los-juzgados-administrati",
+   "short": "Reglamento para la Creación e Integración de los Juzgados Administrativos Munici",
+   "title": "Reglamento para la Creación e Integración de los Juzgados Administrativos Municipales y la Defensoría de Oficio en Materia Administrativa de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=12",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 21,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_para_la_Creacin_e_Integracin_-1728833763-detreg-172.pdf",
+     "sha256": "3f8edf17263f36b5e399ae4b09258882c6fee9717eed270532874c023f02c90d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-los-servicios-de-agua-potable-alcantarillado-y-tratamien",
+   "short": "Reglamento de los Servicios de Agua Potable, Alcantarillado y Tratamiento para e",
+   "title": "Reglamento de los Servicios de Agua Potable, Alcantarillado y Tratamiento para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=26",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 308,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_los_Servicios_de_Agua_Pota-13504265-detreg-174.pdf",
+     "sha256": "b49d6991413a61824dca22d86c3242cd94d5ff5a9e0b0f6964b19d711e167753"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-servicio-civil-de-carrera",
+   "short": "Reglamento del Servicio Civil de Carrera para el Municipio de León, Guanajuato",
+   "title": "Reglamento del Servicio Civil de Carrera para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=96",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 77,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202011301403560.REGLAMENTO%20DEL%20SERVICIO%20CIVIL%20DE%20CARRERA.pdf",
+     "sha256": "c37337e504083c3bb562b0fd62833ee15ad2e8dd6253e9e15573ef9291d2d532"
+    }
+   ]
+  },
+  {
+   "slug": "disposiciones-administrativas-mediante-las-que-se-emite-la-paleta-vege",
+   "short": "Disposiciones Administrativas mediante las que se emite la Paleta Vegetal para l",
+   "title": "Disposiciones Administrativas mediante las que se emite la Paleta Vegetal para la Zona Urbana del Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=69",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 3,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202107051100180.DISPOSICIONES_ADMINISTRATIVAS_PALETA_VEGETAL_2021.pdf",
+     "sha256": "17b5fb9534025d2a4719f959dc8d159ca2e1ea737c3b8941111e14ba3b0704c6"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-economia-del-conocimiento-y-la-innovacion",
+   "short": "Reglamento de la Economía del Conocimiento y la Innovación para el Municipio de ",
+   "title": "Reglamento de la Economía del Conocimiento y la Innovación para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=100",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 73,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202206171441310.Reglamento%20de%20la%20Econom%C3%ADa%20del%20Conocimiento%20y%20la%20Innovaci%C3%B3n.pdf",
+     "sha256": "d8e395e3250530b82938c8c40323633315e5d9a506e507757b4fa7d1db3538b8"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-movilidad",
+   "short": "Reglamento de Movilidad para el Municipio de León, Guanajuato",
+   "title": "Reglamento de Movilidad para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=40",
+   "versions": [
+    {
+     "from": "2021-07-21",
+     "units": 240,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Movilidad_para_el_Municipi-1233565659-detreg-154.pdf",
+     "sha256": "01b4e532bee2cf3e152b0ec8379a89ad314fa4e9244542fdea5b0e568fcaaa0c"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-obra-publica-y-servicios-relacionados-con-la-misma",
+   "short": "Reglamento de Obra Pública y Servicios Relacionados con la Misma",
+   "title": "Reglamento de Obra Pública y Servicios Relacionados con la Misma",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=34",
+   "versions": [
+    {
+     "from": "2021-08-24",
+     "units": 186,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202108261528470.REGLAMENTO_DE_OBRA_P%C3%9ABLICA.pdf",
+     "sha256": "d98a295a740442641df04d89d184bda5157c2b00cc5526a1621e12dee9240b08"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-comision-municipal-de-la-prevencion-social-de-la-viol",
+   "short": "Reglamento de la Comisión Municipal de la Prevención Social de la Violencia y la",
+   "title": "Reglamento de la Comisión Municipal de la Prevención Social de la Violencia y la Delincuencia de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=101",
+   "versions": [
+    {
+     "from": "2021-09-07",
+     "units": 20,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_la_Comisin_Municipal_de_la-1363484077-detreg-160.pdf",
+     "sha256": "6837fe427ff30546e56694696797f90040f799dd82e1de078d0bbb14bf0afb20"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-para-el-funcionamiento-de-establecimientos-comerciales-y-de",
+   "short": "Reglamento para el Funcionamiento de Establecimientos Comerciales y de Servicios",
+   "title": "Reglamento para el Funcionamiento de Establecimientos Comerciales y de Servicios en el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=61",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 61,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202206171203310.Reglamento%20para%20el%20Funcionamiento%20de%20Establecimientos%20Comerciales%20y%20de%20Servicios.pdf",
+     "sha256": "fe2d8e05724ab5425e381f8643412454198a6dab8faceb6ae2ad6b40fd6f9a34"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-de-honor-y-justicia-de-los-cuerpos-de-seguridad",
+   "short": "Reglamento del Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública M",
+   "title": "Reglamento del Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública Municipal de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=65",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 71,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Consejo_de_Honor_y_Justic-775918748-detreg-185.pdf",
+     "sha256": "7ff3f3142c69fa059c068103af762f13e119bd854b0787cbd34b39fc02a79897"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-el-desarrollo-economico-innovac",
+   "short": "Reglamento del Consejo Consultivo para el Desarrollo Económico, Innovación y Cre",
+   "title": "Reglamento del Consejo Consultivo para el Desarrollo Económico, Innovación y Creatividad del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=48",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 28,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202206171334530.Reglamento%20CCDEIyC%20final.pdf",
+     "sha256": "e3b10fd6610dc0be2a1f766af1a22958404c67c747b09c0c907009cb081eea6d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-de-consejos-de-la-administracion-publica-munici",
+   "short": "Reglamento del Sistema de Consejos de la Administración Pública Municipal de Leó",
+   "title": "Reglamento del Sistema de Consejos de la Administración Pública Municipal de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=109",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 28,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Sistema_de_Consejos_de_la-176726231-detreg-195.pdf",
+     "sha256": "685b6e743c9240986540840b5a44ff13b1d1451b6313b18340a883cc7b2ada4a"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-participacion-ciudadana-y-vecinal",
+   "short": "Reglamento de Participación Ciudadana y Vecinal del Municipio de León, Guanajuat",
+   "title": "Reglamento de Participación Ciudadana y Vecinal del Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=29",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 210,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Participacin_Ciudadana_y_V-833854828-detreg-155.pdf",
+     "sha256": "7540333d5fd910dd6ff54f04f57bb2253e9422544bd2cfc319bda3eb33721026"
+    }
+   ]
+  },
+  {
+   "slug": "codigo-de-etica-de-las-personas-servidoras-publicas-de-la-administraci",
+   "short": "Código de Ética de las Personas Servidoras Públicas de la Administración Pública",
+   "title": "Código de Ética de las Personas Servidoras Públicas de la Administración Pública Municipal de León, Guanajuato (2024-2027)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=141",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 15,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Cdigo_de_tica_de_las_Personas_Servidoras-556698351-detreg-189.pdf",
+     "sha256": "fb5d0308476f604b6c20550919935303eb47e35593d6eb6de0283bf20fe133bf"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-coordinacion-operativa-de-la-secretaria-de-seguridad-pre",
+   "short": "Reglamento de Coordinación Operativa de la Secretaría de Seguridad, Prevención y",
+   "title": "Reglamento de Coordinación Operativa de la Secretaría de Seguridad, Prevención y Protección Ciudadana de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=66",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 132,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Coordinacin_Operativa_de_l-9852095-detreg-136.pdf",
+     "sha256": "f4b8e60cec7ad27e223c83ad877a46ff44a2881617a7d6cf8e2e5dc87f2cdd13"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-academia-metropolitana-de-seguridad-publica",
+   "short": "Reglamento de la Academia Metropolitana de Seguridad Pública de León, Guanajuato",
+   "title": "Reglamento de la Academia Metropolitana de Seguridad Pública de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=33",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 89,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_la_Academia_Metropolitana_-1206327690-detreg-182.pdf",
+     "sha256": "c10042347fbbae0232f3742dc37543fb2b6f276868d6255eef19a1f6c1c71ae5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-instituto-municipal-de-las-mujeres",
+   "short": "Reglamento del Instituto Municipal de las Mujeres para el Municipio de León, Gua",
+   "title": "Reglamento del Instituto Municipal de las Mujeres para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=62",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 44,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202305291541520.202305161404490.Reglamento%20del%20Instituto%20Municipal%20de%20las%20Mujeres.pdf",
+     "sha256": "fe356e138c0e8c75e71eaf46a22a687b1c0031f9b983c35c282707da0771b96f"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-mejora-regulatoria-competitividad-y-simplificacion-admin",
+   "short": "Reglamento de Mejora Regulatoria, Competitividad y Simplificación Administrativa",
+   "title": "Reglamento de Mejora Regulatoria, Competitividad y Simplificación Administrativa para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=79",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 141,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202305181540400.202305161734240.Reglamento%20Mejora%20Regulatoria.pdf",
+     "sha256": "da6ec7ef3c606a6e8bef5053fc64393b3e827f854f786eb5e9aadc8cd045acad"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-integral-de-aseo-publico",
+   "short": "Reglamento del Sistema Integral de Aseo Público de León, Guanajuato.",
+   "title": "Reglamento del Sistema Integral de Aseo Público de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=37",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 98,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Sistema_Integral_de_Aseo_-1698834529-detreg-183.pdf",
+     "sha256": "dbb3a617ff34a126f2153b66459b168e721c6137290f3658249f8692a14ee282"
+    }
+   ]
+  },
+  {
+   "slug": "manual-de-operacion-para-el-funcionamiento-del-sistema-de-apertura-rap",
+   "short": "Manual de Operación para el Funcionamiento del Sistema de Apertura Rápida de Emp",
+   "title": "Manual de Operación para el Funcionamiento del Sistema de Apertura Rápida de Empresas",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=117",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 36,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202307131553550.MANUAL%20DE%20OPERACI%C3%93N%20SARE.pdf",
+     "sha256": "6eed878056513e46cc7bbc4ed9f476ef6180a8e2fb180c65ab2e8869f9212a7d"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-instituto-municipal-de-vivienda",
+   "short": "Reglamento del Instituto Municipal de Vivienda de León, Guanajuato",
+   "title": "Reglamento del Instituto Municipal de Vivienda de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=17",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 55,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202308021008070.230802%20Nuevo%20Reglamento%20IMUVI.pdf",
+     "sha256": "c03051fc74884a07f143b5ff0e2e7453e70d5d61849f65502c2b52f2fab31236"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-instituto-municipal-de-las-juventudes",
+   "short": "Reglamento del Instituto Municipal de las Juventudes de León, Guanajuato",
+   "title": "Reglamento del Instituto Municipal de las Juventudes de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=13",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 63,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Instituto_Municipal_de_la-61554140-detreg-181.pdf",
+     "sha256": "b7b7bbc186b01e25c640856bf2e9b6af52c261794b7405794f1a3389f5eabe07"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-municipal-para-prevenir-atender-sancionar-y-err",
+   "short": "Reglamento del Consejo Municipal para Prevenir, Atender, Sancionar y Erradicar l",
+   "title": "Reglamento del Consejo Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra las Mujeres en León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=118",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 37,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202311161511420.Reglamento%20PASEV.pdf",
+     "sha256": "f6830ac7f29d793cc12c6f80de7fde8bc604a6bca3240db65deb7325851f2573"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-cultura-fisica-y-deporte",
+   "short": "Reglamento de Cultura Física y Deporte para el Municipio de León, Guanajuato.",
+   "title": "Reglamento de Cultura Física y Deporte para el Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=119",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 122,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_Cultura_Fsica_y_Deporte_pa-981854332-detreg-180.pdf",
+     "sha256": "a574b445cd5afa16e815dedcb23921866cd5b639c402f5ded140b72d3c5a5699"
+    }
+   ]
+  },
+  {
+   "slug": "plano-de-valores-de-terreno",
+   "short": "Plano de Valores de Terreno para el Municipio de León, Guanajuato",
+   "title": "Plano de Valores de Terreno para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=120",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202311230929130.Acuerdo%20Plano%20de%20Valores%202024.pdf",
+     "sha256": "4ac20df3e5879de6f6878c21f1f77bf168490b90cca29749f70925f66c29030a"
+    }
+   ]
+  },
+  {
+   "slug": "programa-de-proteccion-de-ninas-ninos-y-adolescentes",
+   "short": "Programa de Protección de Niñas, Niños y Adolescentes para el Municipio de León,",
+   "title": "Programa de Protección de Niñas, Niños y Adolescentes para el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=124",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202401151021070.Programa%20SIPINNA.pdf",
+     "sha256": "9a5d78c6c82e7ee2f5aa97519b16dbeb33da8f164d6ff2bac5fd6321f4144a69"
+    }
+   ]
+  },
+  {
+   "slug": "lineamientos-para-la-integracion-y-funcionamiento-de-los-comites-de-et",
+   "short": "Lineamientos para la integración y funcionamiento de los Comités de Ética de las",
+   "title": "Lineamientos para la integración y funcionamiento de los Comités de Ética de las dependencias y entidades de la Administración Pública Municipal de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=125",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 27,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/202401221532240.LINEAMIENTOS%20COMIT%C3%89S%20%C3%89TICA.pdf",
+     "sha256": "ee1ece5876263556b1561c4a5fbf70a24097696e34bcb5d26a592f7a8b6fa994"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-parque-ecologico-metropolitano-de-leon-gto-eliseo-marti",
+   "short": "Reglamento del Parque Ecológico Metropolitano de León, Gto.,“Eliseo Martínez Pér",
+   "title": "Reglamento del Parque Ecológico Metropolitano de León, Gto.,“Eliseo Martínez Pérez”",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=54",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 56,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Parque_Ecolgico_Metropoli-1625878223-detreg-184.pdf",
+     "sha256": "a5f0841ec4a4024b0b3073d82358f4a55bfa9e61f14868989d98be5c40698600"
+    }
+   ]
+  },
+  {
+   "slug": "lineamientos-para-el-otorgamiento-de-becas-a-estudiantes",
+   "short": "Lineamientos para el Otorgamiento de Becas a Estudiantes en León, Guanajuato",
+   "title": "Lineamientos para el Otorgamiento de Becas a Estudiantes en León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=47",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 24,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Lineamientos_para_el_Otorgamiento_de_Bec-684489527-detreg-138.pdf",
+     "sha256": "d85bfdb031b7b191d6609fe59a8c8de3856cbccd01183c14506b80d034e10a19"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-procuraduria-auxiliar-de-proteccion-de-ninas-ninos-y",
+   "short": "Reglamento de la Procuraduría Auxiliar de Protección de Niñas, Niños y Adolescen",
+   "title": "Reglamento de la Procuraduría Auxiliar de Protección de Niñas, Niños y Adolescentes del Municipio de León, Guanajuato.",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=127",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 56,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_la_Procuradura_Auxiliar_de-1766104325-detreg-186.pdf",
+     "sha256": "52c3455af0fe604a55ace38d8ec228018de411dc456439c0b54838f35dc899af"
+    }
+   ]
+  },
+  {
+   "slug": "programa-de-gobierno-municipal-2024-2027",
+   "short": "Programa de Gobierno Municipal 2024-2027",
+   "title": "Programa de Gobierno Municipal 2024-2027",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=128",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 12,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Programa_de_Gobierno_Municipal_20242027-1825286751-detreg-148.pdf",
+     "sha256": "2acfe6b2619564e3be861a461342f2f65cffe065006d50e24be7c2f002ddc9b1"
+    }
+   ]
+  },
+  {
+   "slug": "programa-municipal-de-prevencion-social-de-la-violencia-y-la-delincuen",
+   "short": "Programa Municipal de Prevención Social de la Violencia y la Delincuencia 2024-2",
+   "title": "Programa Municipal de Prevención Social de la Violencia y la Delincuencia 2024-2027 del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=132",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 2,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Programa_Municipal_de_Prevencin_Social_d-241749556-detreg-152.pdf",
+     "sha256": "0576556bc2720901a37ff2bc8b13d1c426b093be626daea34b24ca7c9c733e87"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-sistema-para-el-desarrollo-integral-de-la-familia-en-el",
+   "short": "Reglamento del Sistema para el Desarrollo Integral de la Familia en el Municipio",
+   "title": "Reglamento del Sistema para el Desarrollo Integral de la Familia en el Municipio de León, Gto. (2025)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=135",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 64,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Sistema_para_el_Desarroll-1470201129-detreg-157.pdf",
+     "sha256": "93226e9d56d9e9b1bc626d3856ce94ee1d511c1c33b12da545011ba35dc5f103"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-instituto-cultural-de-leon-guanajuato-2025",
+   "short": "Reglamento del Instituto Cultural de León, Guanajuato (2025)",
+   "title": "Reglamento del Instituto Cultural de León, Guanajuato (2025)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=136",
+   "versions": [
+    {
+     "from": "2025-04-21",
+     "units": 63,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Instituto_Cultural_de_Len-508901161-detreg-161.pdf",
+     "sha256": "e00bb8cbd09f1dd7f2a0e0b22f543bb7d1712e546c3ce3311a8f33b819083c48"
+    }
+   ]
+  },
+  {
+   "slug": "lineamientos-que-regulan-la-disposicion-y-comprobacion-de-las-partidas",
+   "short": "Lineamientos que regulan la disposición y comprobación de las partidas que integ",
+   "title": "Lineamientos que regulan la disposición y comprobación de las partidas que integran el concepto 4400 denominado “Ayudas Sociales” (2025)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=139",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Lineamientos_que_regulan_la_disposicin_y-1095302124-detreg-168.pdf",
+     "sha256": "874dd5f5f8c954f55ab64eaea15c2c2af69e2ecb1beab8836385eb3f7f4609c7"
+    }
+   ]
+  },
+  {
+   "slug": "manual-de-procedimientos-para-el-otorgamiento-de-ayudas-o-apoyos-socia",
+   "short": "Manual de procedimientos para el otorgamiento de ayudas o apoyos sociales a la p",
+   "title": "Manual de procedimientos para el otorgamiento de ayudas o apoyos sociales a la población y para el fortalecimiento de organizaciones de la sociedad civil” (2025)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=140",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Manual_de_procedimientos_para_el_otorgam-171380236-detreg-169.pdf",
+     "sha256": "ead25e27e6927ccd0206538c72bac9a18133e47e5fa8ecca5b003a3e5d3020ce"
+    }
+   ]
+  },
+  {
+   "slug": "protocolo-de-actuacion-para-la-atencion-de-reportes-y-quejas-en-casos",
+   "short": "Protocolo de Actuación para la Atención de Reportes y Quejas en casos de Acoso S",
+   "title": "Protocolo de Actuación para la Atención de Reportes y Quejas en casos de Acoso Sexual en el Sistema Integrado de Transporte",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=143",
+   "versions": [
+    {
+     "from": "2025-08-15",
+     "units": 13,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Protocolo_de_Actuacin_para_la_Atencin_de-576151737-detreg-192.pdf",
+     "sha256": "a7b45156989a0ce43de1cfc44998ecaf288035447368d4edf82998b89af67853"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-anticorrupcion",
+   "short": "Reglamento Anticorrupción del Municipio de León, Guanajuato",
+   "title": "Reglamento Anticorrupción del Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=142",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 32,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_Anticorrupcin_del_Municipio_d-2007510105-detreg-191.pdf",
+     "sha256": "5e06819a53877fb191c7f23ced9aecdcc4e12dfb0d17f78e02b8ec30421d2dc5"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-del-consejo-consultivo-para-la-participacion-e-inclusion-de",
+   "short": "Reglamento del Consejo Consultivo para la Participación e Inclusión de las Perso",
+   "title": "Reglamento del Consejo Consultivo para la Participación e Inclusión de las Personas con Discapacidad en el Municipio de León, Guanajuato",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=145",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 42,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_del_Consejo_Consultivo_para_l-1418321718-detreg-194.pdf",
+     "sha256": "e38f3176a4b388bb1acf745ee7725fd88d09f2890c0e1b5cdab1070e037fdfa8"
+    }
+   ]
+  },
+  {
+   "slug": "reglamento-de-la-feria-estatal-de-leon-y-parque-urbano-2026",
+   "short": "Reglamento de la Feria Estatal de León y Parque Urbano (2026)",
+   "title": "Reglamento de la Feria Estatal de León y Parque Urbano (2026)",
+   "url": "https://normatividadmunicipal.leon.gob.mx/detalle-norma.php?id=147",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 66,
+     "source_url": "https://normatividadmunicipal.leon.gob.mx/archivos/Reglamento_de_la_Feria_Estatal_de_Len_y_-1585527950-detreg-197.pdf",
+     "sha256": "feb262e32194fd3e8743bec7464f92ccc8ea0ed03386f81afc7348699d582c46"
+    }
+   ]
+  }
+ ]
+}

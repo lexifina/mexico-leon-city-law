@@ -1,0 +1,11 @@
+{
+  "path": "mx-gua-leon",
+  "code": "MX-GUA-LEON",
+  "name": "León (city)",
+  "level": "municipality",
+  "parent": "mx-gua",
+  "repo": "https://github.com/lexifina/mexico-leon-city-law",
+  "build": "built: reglamentos municipales vigentes of León, current text only (97), from https://normatividadmunicipal.leon.gob.mx/",
+  "language": "es",
+  "sources": 1
+}
